@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
+    "title": "Envision",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_white": "/images/logo-light.png",
-    "logo_width": "150",
-    "logo_height": "39",
+    "logo": "/images/a1.png",
+    "logo_white": "/images/light1.png",
+    "logo_width": "200",
+    "logo_height": "80",
     "logo_text": "Geeky"
   },
   "settings": {
@@ -23,7 +23,7 @@
   "params": {
     "tag_manager_id": "",
     "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "copyright": "Designed and Developed By Ali Arslan Zakir"
   },
   "metadata": {
     "meta_author": "Statichunt",
@@ -46,8 +46,8 @@
     },
     "newsletter": {
       "enable": true,
-      "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "title": "Articles",
+      "content": "Send Us Email",
       "privacy_policy_page": "#",
       "malichipm_url": ""
     }

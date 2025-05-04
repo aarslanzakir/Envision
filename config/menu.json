@@ -6,15 +6,15 @@
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/"
     },
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/"
     },
     {
       "name": "Pages",
@@ -23,7 +23,7 @@
       "children": [
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "/"
         }
       ]
     }
@@ -35,11 +35,11 @@
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/"
     },
     {
       "name": "Privacy Policy",

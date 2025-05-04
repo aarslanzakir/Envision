@@ -1,13 +1,13 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: "to Envision"
+  content: "Inspiring conversations. Expert insights. Daily episodes you'll want to replay."
   image_enable: true
   image: /images/banner-author.png
   button:
     enable: true
-    label: Know About Me
+    label: Get Started
     link: /about
     rel: ""
 
@@ -17,7 +17,7 @@ featured_posts:
 
 promotion:
   enable: true
-  image: /images/promotion.png
+  image: /images/promotionl.png
   link: "#"
 
 recent_posts:
