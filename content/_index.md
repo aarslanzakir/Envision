@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Get Started
-    link: /about
+    link: /
     rel: ""
 
 featured_posts:
