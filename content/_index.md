@@ -2,7 +2,7 @@
 banner:
   title: Welcome **!**
   title_small: "to Envision"
-  content: "Inspiring conversations. Expert insights. Daily episodes you would like to review."
+  content: "Inspiring conversations. Expert insights. Analysis."
   image_enable: true
   image: /images/banner-author.png
   button:
