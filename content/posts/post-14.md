@@ -1,25 +1,10 @@
 ---
-title: "What you need to know about Programming"
-date: 2022-04-04T14:00:00Z
-image: /images/post/post-6.png
-categories: ["robotics", "youtube"]
-featured: false
+title: "Unfolding Dynamics Of Civil Military Conflict"
+date: 2025-05-14
+image: /images/post/unfolded.png
+categories: ["Conflict"]
+featured: true
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-![alter-text](/images/post/post-1.png)
-*Example Caption*
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+An unhealthy civil military relation is the primary reason for most of the problems we are facing today. The popular narrative is that it is the military which has halted the growth of democratic  institutions. Our lingering disputes with neighboring countries especially with India compel us to rely heavily on military for its existence. According to Aqeel shah , expansive professional development of military inculcated a belief that they should take over the governance of the country if needed. The military corporate identity and interests are linked to projecting itself as Pakistan’s only savior against evil designs of India. Contrary to this belief in reality army is not a countervailing institution. The executive judiciary and legislature are  the three main state organs while military is  a subset of the executive which is a state organ. Dominance of military over other state organs and it's interference in democratic process has halted the growth of all other institutions adversely affecting their performance. Failed experiment of hybrid regime is a clear  manifestation of invasive and aggressive approach of military to run state affairs. All major political parties has raised questions on unconstitutional role of military in framing and planting governments. This has adversely affected the credibility of democratic process. Legitimacy is the primary thing required for a government to govern a country and with a questionable legitimacy it becomes impossible to govern a diversified country like Pakistan.  The crisis of legitimacy has yielded a crisis of governance. The problems we are facing today are direct sequelae of civil military conflict. A purposeful national dialogue between all political forces and military is urgently required to save this from destruction.

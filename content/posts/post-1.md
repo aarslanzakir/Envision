@@ -1,6 +1,6 @@
 ---
 title: "The Post War Scenario And The Road Towards Peace"
-date: 2025-05-14
+date: 2025-05-01
 image: /images/post/war.png
 categories: ["War"]
 featured: true
