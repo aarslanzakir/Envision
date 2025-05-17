@@ -5,34 +5,29 @@
       "url": "/"
     },
     {
+      "name": "Podcasts",
+      "url": "/"
+    },
+    {
       "name": "About",
       "url": "/"
     },
-    {
-      "name": "Elements",
-      "url": "/"
-    },
+   
     {
       "name": "Contact",
       "url": "/"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Categories",
-          "url": "/"
-        }
-      ]
     }
+    
   ],
   "footer": [
     {
       "name": "Home",
       "url": "/"
     },
+      {
+      "name": "Podcasts",
+      "url": "/"
+    },
     {
       "name": "About",
       "url": "/"
@@ -40,10 +35,7 @@
     {
       "name": "Contact",
       "url": "/"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "#"
     }
+   
   ]
 }
